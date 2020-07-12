@@ -11,8 +11,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/uptempotech/chat_client/proto"
 	"google.golang.org/grpc"
-	"uptempo.tech/docker_example/proto"
 
 	"sync"
 )
